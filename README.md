@@ -16,9 +16,11 @@
 
 ### 3. 视频地址
 
+
+
 ### 4. 游戏下载链接
 
-[v1.0]()
+[v1.0] [百度网盘](https://pan.baidu.com/s/1onS73fND89jAiX3uq1tZzg)
 
 使用识别图：
 
