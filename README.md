@@ -1,12 +1,10 @@
 ## 有点甜奶茶 文档目录
 
-[链接](https://sysu-milktea-team.github.io/Document/)
-
-### 游戏名称
+### 1. 游戏名称
 
 有点甜奶茶
 
-### 游戏简介
+### 2. 游戏简介
 
 ![game_poster](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/game_poster.png)
 
@@ -16,14 +14,20 @@
 
 玩家需要根据顾客的需求，在顾客的耐心时间内，调制出不同口味的奶茶，满足不同顾客的不同需求。
 
-### 3分钟视频地址
+### 3. 视频地址
 
-### 游戏下载链接
+### 4. 游戏下载链接
 
-### 游戏亮点
+[v1.0]()
 
-### [游戏设计文档](https://github.com/sysu-milktea-team/Document/blob/gh-pages/docs/Design.md)
+使用识别图：
 
-### 团队简介
+![识别图](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/identify.jpg)
+
+### 5. 游戏亮点
+
+### 6. [游戏设计文档](https://github.com/sysu-milktea-team/Document/blob/gh-pages/docs/Design.md)
+
+### 7. 团队简介
 
 | 成员 | 团队工作 | 

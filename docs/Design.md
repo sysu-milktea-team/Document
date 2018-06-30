@@ -18,7 +18,7 @@
 
 ### 2.2 设计灵感
 
-游戏灵感来源于名为《》的一款模拟经营类的游戏。
+游戏灵感来源于名为《xxxx》的一款模拟经营类的游戏。
 
 我们模仿了该游戏的一些核心玩法，并加以变化，通过与AR相结合，赋予其新的独特的游戏风格。
 
@@ -42,6 +42,8 @@
 
 ## 3. 游戏设计
 
+[项目初期策划方案](https://github.com/sysu-milktea-team/Document/blob/master/%E6%9C%89%E7%82%B9%E7%94%9C%E5%A5%B6%E8%8C%B6%20%E7%AD%96%E5%88%92%E6%96%87%E6%A1%88(1).md)
+
 ### 3.1 核心玩法
 
 * 玩家通过扫描特定的图案召唤出奶茶杯。
@@ -53,8 +55,6 @@
 * 游戏分为易中难三个难度等级。
 
 ### 3.2 游戏机制
-
-![识别图]()
 
 #### 3.2.1 关卡计时
 
@@ -90,14 +90,24 @@
 
 ### 3.3 游戏界面
 
-#### 开始界面
+#### 3.3.1 开始界面
 
-#### 关卡界面
+![开始界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/start.png)
 
-#### 顾客需求
+#### 3.3.2 顾客需求
 
-#### 通关界面
+![顾客需求](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/play.png)
 
-#### 失败界面
+#### 3.3.3 通关界面
 
-#### 帮助界面
+![通关界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/success.png)
+
+#### 3.3.4 失败界面
+
+![失败界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/fail.png)
+
+#### 3.3.5 帮助界面
+
+![About](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/about.png)
+
+![Help](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/help.png)
