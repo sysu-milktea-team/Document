@@ -2,23 +2,49 @@
 
 ![链接](https://sysu-milktea-team.github.io/Document/)
 
-![game_poster]()
-
 ## 1. 游戏名称
 
 有点甜奶茶
 
-类型：AR游戏，模拟经营类游戏
+![game_poster](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/game_poster.png)
 
-## 2. 概念设计
+## 2. 游戏概述
+
+### 2.1 游戏简介
+
+这是一款结合AR的模拟经营类游戏。 
+
+玩家扮演一个奶茶店的服务员，向光临奶茶店的顾客提供奶茶。
+
+玩家需要根据顾客的需求，在顾客的耐心时间内，调制出不同口味的奶茶，满足不同顾客的不同需求。
+
+### 2.2 设计灵感
+
+游戏灵感来源于名为《》的一款模拟经营类的游戏。
+
+我们模仿了该游戏的一些核心玩法，并加以变化，通过与AR相结合，赋予其新的独特的游戏风格。
+
+### 2.3 游戏背景
 
 
 
-### 2.1 设计灵感
+### 2.3 游戏特点
 
-## 3. 游戏内容
+* 与AR相结合，玩法比传统游戏更新颖。
 
-### 3.1 基本玩法
+* 趣味性强，通过关卡时间限制、顾客需求时间限制，增加游戏紧迫感和刺激感。
+
+* 内容较为丰富，通过难度等级的调节、以及游戏中材料的不同组合，使游戏的变化多样。
+
+* 用户体验好，上手简单，并提供了用户帮助和游戏介绍界面。
+
+### 2.4 目标用户
+
+全年龄段用户
+
+## 3. 游戏设计
+
+### 3.1 核心玩法
 
 * 玩家通过扫描特定的图案召唤出奶茶杯。
 
@@ -28,4 +54,52 @@
 
 * 游戏分为易中难三个难度等级。
 
-### 3.2 
+### 3.2 游戏机制
+
+![识别图]()
+
+#### 3.2.1 关卡计时
+
+每一个关卡有时间限制，玩家需要完成每个关卡的基本要求才能进入下一关。通关失败则可以选择REPLAY重头再来。
+
+![关卡倒计时](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/count-down-1.png)
+
+#### 3.2.2 制作材料
+
+* 基本材料：牛奶，茶。
+
+![奶茶](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/milk-tea.png)
+
+* 可选材料：奶盖，椰果，珍珠。
+
+通过配置不同配比的牛奶和茶，以及加入不同的可选材料，可以配制出不同风味的奶茶。
+
+![材料](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/cailiao.png)
+
+#### 3.2.3 顾客需求
+
+* 需求：不同顾客有不同的口味。他们会想要不同配比的奶茶，有的喜欢奶盖而有的会更喜欢珍珠或椰果。
+
+* 顾客耐心值：顾客有一定的耐心值。不同顾客的耐心值是不同的，且都随时间递减，玩家需要在顾客耐心值消减为0时满足顾客需求才可得分。
+
+![耐心倒计时](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/count-down-2.png)
+
+### 3.2.4 计分机制
+
+系统会根据需求为标准为制作的奶茶成本进行评估。准确会得分，有错不扣分。
+
+![计分](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/scores.png)
+
+### 3.3 游戏界面
+
+#### 开始界面
+
+#### 关卡界面
+
+#### 顾客需求
+
+#### 通关界面
+
+#### 失败界面
+
+#### 帮助界面
