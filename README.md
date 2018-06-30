@@ -22,11 +22,9 @@
 
 [v1.0] [百度网盘](https://pan.baidu.com/s/1onS73fND89jAiX3uq1tZzg)
 
-使用识别图：
+识别图下载： [识别图](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/identify.jpg)
 
-![识别图](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/identify.jpg)
-
-### 5. 游戏亮点
+### 5. 游戏特色
 
 ### 6. [游戏设计文档](https://github.com/sysu-milktea-team/Document/blob/gh-pages/docs/Design.md)
 
