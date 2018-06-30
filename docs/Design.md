@@ -1,7 +1,5 @@
 # 游戏设计文档
 
-![链接](https://sysu-milktea-team.github.io/Document/)
-
 ## 1. 游戏名称
 
 有点甜奶茶
