@@ -6,7 +6,7 @@
 
 ### 2. 游戏简介
 
-![game_poster](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/game_poster.png)
+![game_poster](../image/design/game_poster.png)
 
 这是一款结合AR的模拟经营类游戏。 
 
