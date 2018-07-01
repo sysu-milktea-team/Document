@@ -6,7 +6,7 @@
 
 ### 2. 游戏简介
 
-![game_poster](./image/design/game_poster.png)
+![game_poster](/image/design/game_poster.png)
 
 这是一款结合AR的模拟经营类游戏。 
 
@@ -22,7 +22,7 @@
 
 [v1.0] [百度网盘](https://pan.baidu.com/s/1onS73fND89jAiX3uq1tZzg)
 
-识别图下载： [识别图](./image/design/identify)
+识别图下载： [识别图](/image/design/identify.png)
 
 ### 5. 游戏特色
 
