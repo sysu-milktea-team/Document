@@ -4,7 +4,7 @@
 
 有点甜奶茶
 
-![game_poster](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/game_poster.png)
+![game_poster](../image/design/game_poster.png)
 
 ## 2. 游戏概述
 
@@ -60,19 +60,19 @@
 
 每一个关卡有时间限制，玩家需要完成每个关卡的基本要求才能进入下一关。通关失败则可以选择REPLAY重头再来。
 
-![关卡倒计时](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/count-down-1.png)
+![关卡倒计时](../image/design/count-down-1.png)
 
 #### 3.2.2 制作材料
 
 * 基本材料：牛奶，茶。
 
-![奶茶](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/milk-tea.png)
+![奶茶](../image/design/milk-tea.png)
 
 * 可选材料：奶盖，椰果，珍珠。
 
 通过配置不同配比的牛奶和茶，以及加入不同的可选材料，可以配制出不同风味的奶茶。
 
-![材料](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/cailiao.png)
+![材料](../image/design/cailiao.png)
 
 #### 3.2.3 顾客需求
 
@@ -80,34 +80,34 @@
 
 * 顾客耐心值：顾客有一定的耐心值。不同顾客的耐心值是不同的，且都随时间递减，玩家需要在顾客耐心值消减为0时满足顾客需求才可得分。
 
-![耐心倒计时](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/count-down-2.png)
+![耐心倒计时](../image/design/count-down-2.png)
 
 ### 3.2.4 计分机制
 
 系统会根据需求为标准为制作的奶茶成本进行评估。准确会得分，有错不扣分。
 
-![计分](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/scores.png)
+![计分](../image/design/scores.png)
 
 ### 3.3 游戏界面
 
 #### 3.3.1 开始界面
 
-![开始界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/start.png)
+![开始界面](../image/design/start.png)
 
 #### 3.3.2 顾客需求
 
-![顾客需求](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/play.png)
+![顾客需求](../image/design/play.png)
 
 #### 3.3.3 通关界面
 
-![通关界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/success.png)
+![通关界面](../image/design/success.png)
 
 #### 3.3.4 失败界面
 
-![失败界面](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/fail.png)
+![失败界面](../image/design/fail.png)
 
 #### 3.3.5 帮助界面
 
-![About](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/about.png)
+![About](../image/design/about.png)
 
-![Help](https://github.com/sysu-milktea-team/Document/blob/gh-pages/image/design/help.png)
+![Help](../image/design/help.png)
