@@ -1,4 +1,4 @@
-## 有点甜奶茶 文档目录
+## 有点甜奶茶
 
 ### 1. 游戏名称
 
@@ -22,7 +22,7 @@
 
 [v1.0] [百度网盘](https://pan.baidu.com/s/1onS73fND89jAiX3uq1tZzg)
 
-识别图下载： [识别图](/image/design/identify.png)
+识别图下载： [识别图](/image/design/identify.jpg)
 
 ### 5. 游戏特色
 
