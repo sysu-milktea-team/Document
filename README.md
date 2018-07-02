@@ -17,7 +17,7 @@
 ### 3. 视频地址
 [演示] [百度网盘](https://pan.baidu.com/s/1otPddTbACH5s22u8-umHig)
 
-
+[gif] [百度网盘](https://pan.baidu.com/s/1UJ62xChb3OCYQxKtrv84Xg)
 ### 4. 游戏下载链接
 
 [v1.0] [百度网盘](https://pan.baidu.com/s/1onS73fND89jAiX3uq1tZzg)
