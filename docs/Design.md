@@ -18,7 +18,7 @@
 
 ### 2.2 设计灵感
 
-游戏灵感来源于名为《poison punch》的一款模拟经营类的游戏。
+游戏灵感来源于名为[《poison punch》](https://itunes.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E8%8D%AF%E5%89%82-potion-punch/id1059695084?mt=8)的一款模拟经营类的游戏。
 
 我们模仿了该游戏的一些核心玩法，并加以变化，通过与AR相结合，赋予其新的独特的游戏风格。
 
