@@ -76,4 +76,4 @@
 
 ### 8.GitHub commit截图
 
-![](/image/design/commit.png)
+[commit截图](/image/design/commit.png)
